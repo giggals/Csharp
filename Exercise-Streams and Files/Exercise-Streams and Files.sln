@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Odd Lines", "1. Odd Lines\1. Odd Lines.csproj", "{B6A5322A-3B41-4158-BCF5-23B4E493111D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Line Numbers", "2. Line Numbers\2. Line Numbers.csproj", "{3C498237-C357-489F-B5B5-9982E4FD6503}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Word Count", "3. Word Count\3. Word Count.csproj", "{F4D4FA87-E26F-45B2-B406-8B91D74C1192}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Copy Binary File", "4. Copy Binary File\4. Copy Binary File.csproj", "{E3D0963E-CF35-4719-AC21-9D5013DBE46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Slicing File", "5. Slicing File\5. Slicing File.csproj", "{D6F0D6A2-40D3-4E4E-AA94-B7FDD2314D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Zipping Sliced Files", "6. Zipping Sliced Files\6. Zipping Sliced Files.csproj", "{1A5318A4-9680-4803-9B7B-56928EA4B345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Directory Traversal", "7. Directory Traversal\7. Directory Traversal.csproj", "{7BF51D4F-F053-44F4-A76B-561D9A2EB488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A5322A-3B41-4158-BCF5-23B4E493111D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A5322A-3B41-4158-BCF5-23B4E493111D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A5322A-3B41-4158-BCF5-23B4E493111D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A5322A-3B41-4158-BCF5-23B4E493111D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C498237-C357-489F-B5B5-9982E4FD6503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C498237-C357-489F-B5B5-9982E4FD6503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C498237-C357-489F-B5B5-9982E4FD6503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C498237-C357-489F-B5B5-9982E4FD6503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D4FA87-E26F-45B2-B406-8B91D74C1192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D4FA87-E26F-45B2-B406-8B91D74C1192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D4FA87-E26F-45B2-B406-8B91D74C1192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D4FA87-E26F-45B2-B406-8B91D74C1192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D0963E-CF35-4719-AC21-9D5013DBE46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D0963E-CF35-4719-AC21-9D5013DBE46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D0963E-CF35-4719-AC21-9D5013DBE46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D0963E-CF35-4719-AC21-9D5013DBE46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F0D6A2-40D3-4E4E-AA94-B7FDD2314D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F0D6A2-40D3-4E4E-AA94-B7FDD2314D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F0D6A2-40D3-4E4E-AA94-B7FDD2314D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F0D6A2-40D3-4E4E-AA94-B7FDD2314D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5318A4-9680-4803-9B7B-56928EA4B345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5318A4-9680-4803-9B7B-56928EA4B345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5318A4-9680-4803-9B7B-56928EA4B345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5318A4-9680-4803-9B7B-56928EA4B345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF51D4F-F053-44F4-A76B-561D9A2EB488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF51D4F-F053-44F4-A76B-561D9A2EB488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF51D4F-F053-44F4-A76B-561D9A2EB488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF51D4F-F053-44F4-A76B-561D9A2EB488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1040F09E-A4DB-4C0A-8551-D9FC7C47B5B0}
+	EndGlobalSection
+EndGlobal
