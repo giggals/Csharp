@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 1. One-To-One Relationship", "Problem 1. One-To-One Relationship\Problem 1. One-To-One Relationship.ssmssqlproj", "{8F058723-AFA9-48F8-9000-216E99ADEE98}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Problem 2. One-To-Many Relationship", "Problem 2. One-To-Many Relationship\Problem 2. One-To-Many Relationship.ssmssqlproj", "{903BA742-5014-4DB0-8C3B-0EFF26A7AE67}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "3. Many-To-Many Relationship", "3. Many-To-Many Relationship\3. Many-To-Many Relationship.ssmssqlproj", "{5D14A94A-52A2-4E40-B4CC-7CC546670BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F058723-AFA9-48F8-9000-216E99ADEE98}.Default|Default.ActiveCfg = Default
+		{E1DB64F2-9682-4D03-A6E8-1EE141D656BD}.Default|Default.ActiveCfg = Default
+		{903BA742-5014-4DB0-8C3B-0EFF26A7AE67}.Default|Default.ActiveCfg = Default
+		{5D14A94A-52A2-4E40-B4CC-7CC546670BCA}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
